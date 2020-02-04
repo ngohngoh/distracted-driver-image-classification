@@ -1,15 +1,15 @@
-G1T9 Machine Learning Project Folder 
-#####################################
+# Distracted Driver Image Classification 
 
-Data Files:
-1. cnn.ipynb
-2. vgg16.ipynb
-3. resnet50.ipynb
+### Problem Statement
+State Farm had came up with a competition on [Kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection) where it was to detect distracted driver. The image [dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) had been recreated in a controlled environment and had been labelled into 10 classes. 
 
+## Source code here
+### Data Files:
+1) cnn.ipynb
+2) vgg16.ipynb
+3) resnet50.ipynb
 
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-Steps to run our script:
+### Steps to run our script:
 1. Start a kernel on Kaggle
 2. Retrieve the dataset from the Kaggle competition 'State Farm Distracted Driver Detection'
 3. Code used in cnn.ipynb --> Simple CNN baseline model 
